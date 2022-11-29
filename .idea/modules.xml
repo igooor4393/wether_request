@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/wether_request.iml" filepath="$PROJECT_DIR$/.idea/wether_request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/json_exmpl.iml" filepath="$PROJECT_DIR$/.idea/json_exmpl.iml" />
     </modules>
   </component>
 </project>
